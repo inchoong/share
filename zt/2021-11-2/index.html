@@ -32,7 +32,34 @@
 <style>  /* 文本垂直对齐图像 https://www.w3cschool.cn/tryrun/showhtml/trycss_vertical-align */
 	    img.top {vertical-align:text-top;}
 	    img.bottom {vertical-align:text-bottom;}
-       </style>
+</style>
+<style>  /* 悬停显示二维码的动态效果（文字简单版）  */
+       .weixin {
+			position: relative;
+		}
+
+		.weixin img.qrcode {
+			position: absolute;
+			z-index: 99;
+			top: -135px;
+			right: -28px;
+			width: 7.5rem;
+			max-width: none;
+			height: 7.5rem;
+			transform: scale(0);
+			transform-origin: top right;
+			opacity: 0;
+			border: .3125rem solid #0085ba;
+			border-radius: .25rem;
+			-webkit-transition: all .4s ease-in-out;
+			-o-transition: all .4s ease-in-out;
+			transition: all .4s ease-in-out;
+			}
+
+		.weixin:hover img.qrcode {
+			transform: scale(1);
+			opacity: 1;
+    </style>/* 悬停显示二维码的动态效果（文字简单版）  */
 </head>
 <body>
 <div class="leftAd">
@@ -81,14 +108,20 @@
 » <a href="https://www.timednews.com/topic/subcat/1.html">时政</a>
 </div>	<div class="right">
 		<div class="topic">
-<h1>强暴时老婆看门 前副总理张高丽出事！？彭帅自曝情人关系</h1>
+<h1><a class="social weixin" href="javascript:">
+<img class="qrcode" src="qrcode_11088.png"  title="扫码阅读" alt="扫码阅读（二维码）">
+强暴时老婆看门 前副总理张高丽出事！？彭帅自曝情人关系</a></h1>
 <br>
 </div>
 		<div class="audio" id="audio" name="audio" style="display:none">
 </div>
 		<div class="content">
 <div class="datetime">
-<span id="publishdate">2021-11-02</span>&nbsp;<span id="author">居安</span>&nbsp;
+<span id="publishdate"><a title="页面截图" href="11088.png">2021-11-02</a> </span>
+&nbsp;<span id="author"><a class="social weixin" href="javascript:">
+<img class="qrcode" src="qrcode_11088.png"  title="扫码阅读" alt="扫码阅读（二维码）">🛡</a>
+<a title="页面PDF" href="11088.pdf">居安思危</a>
+</span>&nbsp;
 <a title="分享到Twitter" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('【强暴时老婆看门 前副总理张高丽出事！？彭帅自曝情人关系】')+'&url='+encodeURIComponent('article/2021/11/02/11088.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=800, height=480');void(0)">
 <img alt="分享到Twitter" width=16 src="images/twitter.png">
 </a>&nbsp;<a title="分享到Facebook" href="javascript:window.open('https://facebook.com/sharer?t='+encodeURIComponent('【强暴时老婆看门 前副总理张高丽出事！？彭帅自曝情人关系】')+'&u='+encodeURIComponent('article/2021/11/02/11088.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=800, height=480');void(0)">
@@ -102,6 +135,7 @@
 | <a title="粤语播报" href="javascript:togglePlayer(1);">
 <img class="bottom" id="voice1" title="粤语播报" width="12px" height="12px" src="images/audio.png">&nbsp;粤语</a>
 </span><!-- 语音播报 -->
+
 </div>
 <div class="event">
 <p>北京时间11月2日晚上十点，著名网球运动员彭帅在微博上发布了她与前常委、副总理张高丽的情人关系经历。</p>

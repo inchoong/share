@@ -1,1 +1,1 @@
-- 华为鸿蒙自带字体 HarmonyOS Sans - [免费可商用中文字体素材下载 (适合手机阅读)](https://dl.iplaysoft.com/files/5514.html) - @[异次元软件世界](https://www.iplaysoft.com/harmonyos-sans.html)
+- 华为鸿蒙自带字体 [HarmonyOS Sans](https://developer.harmonyos.com/cn/docs/design/font-0000001157868583) - [免费可商用中文字体素材下载 (适合手机阅读)](https://dl.iplaysoft.com/files/5514.html) - @[异次元软件世界](https://www.iplaysoft.com/harmonyos-sans.html)

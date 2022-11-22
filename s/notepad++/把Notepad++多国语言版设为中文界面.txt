@@ -1,0 +1,15 @@
+把Notepad++多国语言版设为中文界面
+
+经常折腾html、css、php等代码，用windows自带的记事本编辑这些文件实在太吃力了，
+虽然机子上安装了Adobe Dreamweaver CS5但不到不得已实在不想动用这个庞大的家伙。
+那么自然得找个方便好用的编辑器了。下载了多个版本的UltraEdit32不是试用版就是用不习惯，
+最后还是选择了Notepad++v5.8.3多国语言版。
+不过问题来了，下载下来默认不是中文的，虽然这样不会影响编辑代码，但看着菜单栏里的英文总觉得不舒服。
+如何调成中文界面呢？经过一番折腾+Google才搞掂。设置过程如下：
+在unicode\localization文件夹中找到chineseSimplified.xml将其复制到unicode下，
+就是和notepad++.exe同一目录并改名为nativeLang.xml就OK了。
+重新运行Notepad++就是中文版了。
+另外我们编辑html、css、php等代码当然少不了代码提示功能了，
+但Notepad++默认是没启用这功能的，启用方法如下：
+设置－首选项－备份与自动完成－点选下面的函数自动完成，OK！
+常用属性我们又可以少打不少键盘了。

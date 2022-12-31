@@ -34,4 +34,5 @@ Women in Heat Behind Bars
 >>
 >> 只读密钥：BALGBDHSK5VJDJH7TQR4W5Q3RNLJQA4UD
 
+<li><a href="https://www.btutv.com/sub/Orinonakanohoshigaruonnatachi/">《牢笼中饥渴的女人们》(1987日本)中英双语字幕资源下载列表 - 比兔TV</a></li>
 <li><a href="https://channelmyanmar.org/women-in-heat-behind-bars-1987/">[18+]《监狱里的热恋女性》（1987） – 缅甸频道</a></li>

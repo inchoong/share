@@ -26,5 +26,10 @@ Women in Heat Behind Bars
 >> 在这里，欲望爆炸是每天发生的！ 欢迎来到哭泣的孩子们发情的笼子里！ 来自Nikkatsu的无与伦比的女性监狱色情涂鸦！！ 太漂亮的裸体比赛太热了！
 
 > Ori no naka no hoshigaru onnatachi (1987) -  IMDB: [tt0228684](https://www.imdb.com/title/tt0228684/) 
->> 磁力链接：（ 7.1GB ）
+
+> 磁力链接：（ 7.1GB ）
 >>> magnet:?xt=urn:btih:d898ec3b6dc16b5c13d3514d3d95b8b73e1c04ad
+>
+>> 读写密钥：AII5XNZ3PMU3JRVCLPNCBOVNWNUXZK5YQ
+>>
+>> 只读密钥：BALGBDHSK5VJDJH7TQR4W5Q3RNLJQA4UD

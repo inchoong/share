@@ -3,14 +3,23 @@ Women in Heat Behind Bars
 
 > 电影 ★ 4.9 
 >> 国家/地区: 日本
+>> 
 >> 类型: 动作, 犯罪, 惊悚
+>> 
 >> 上映日期: 1987-12-05
+>> 
 >> 导演: 铃木润一
+>> 
 >> 编剧: Masato Kato
+>> 
 >> 语言: Japanese
+>> 
 >> 演员: Shinobu Wakana , 八田玲奈 , Yûko Chiba , Maria Himeno , Keiko Hiraide , Ryu Ikeda
+>> 
 >> 片长: 70 分钟
+>> 
 >> 奖项: N/A
+>> 
 >> 又名: 檻の中の欲しがる女たち (日本) , Women in Heat Behind Bars , Ori no naka no hoshigaru onnatachi
 
 >  剧情简介:

@@ -1,5 +1,49 @@
 <a href="https://zh.wikisource.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E7%BA%A7%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2_(2021)_%E6%B2%AA_02_%E5%88%91%E5%88%9D_67_%E5%8F%B7%E5%88%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6">上海市第二中级人民法院 (2021) 沪 02 刑初 67 号刑事判决书 - 维基文库，自由的图书馆</a>
 <blockquote>
+						<div id=headerContainer>
+							<table
+								style="width:100%;margin-top:0px;margin-bottom:3px;border:1px solid #93A6C0;background-color:#F9F9F9;text-align:center">
+								<tbody>
+									<tr>
+										<td style=width:0;text-align:left;font-size:small>
+										</td>
+										<td style=width:25%;text-align:left;font-size:small>
+										</td>
+										<td style=width:50%><b data-fr-717bc636=700>上海市第二中级人民法院<br><big
+													data-fr-717bc636=700>刑事判决书</big></b><br>
+											<div style=text-align:right;font-weight:bold data-fr-717bc636=700>(2021) 沪
+												02 刑初 67 号</div><br><span style=color:#999999>2023年2月10日</span>
+										</td>
+										<td style=width:25%;text-align:right;font-size:small>
+										</td>
+										<td class=noprint style=width:0;text-align:right;font-size:small>
+							</table>
+							<table
+								style="width:100%;background:#F8FCFF;font-size:small;border-bottom:1px solid #93A6C0">
+								<tbody>
+									<tr>
+										<td>
+											<table role=presentation class="mbox-small plainlinks sistersitebox"
+												style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+												<tbody>
+													<tr>
+														<td class=mbox-image><span class=noviewer
+																typeof=mw:File><span><img alt
+																		src="data:image/webp;base64,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"
+																		decoding=async width=32 height=29 srcset
+																		data-file-width=103 data-file-height=94
+																		sizes></span></span></td>
+														<td class="mbox-text plainlist"><a
+																href=https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91
+																class=extiw title=w:维基百科>维基百科</a>條目<b
+																data-fr-717bc636=700>︰<a
+																	href=https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2
+																	class=extiw title=w:编程随想的博客
+																	data-fr-717bc636=700>编程随想的博客</a></b>
+													</tr>
+											</table>
+							</table>
+						</div>
 <p>公诉机关上海市人民检察院第二分院。
 						<p>被告人阮晓寰，男，1977年6月10日出生于福建省泉州市，汉族，大学肄业，无业，住本市杨浦区民京路558号。因本案于2021年5月11日被刑事拘留，同年6月17日被捕。现羁押于上海市杨浦区看守所。
 						<p>辩护人陆培煜，上海睿法律师事务所律师。

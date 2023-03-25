@@ -3,7 +3,8 @@ Not By AI Badges — A Badge for Your AI-free Content<br>
 https://notbyai.fyi/
 <blockquote>
 图示：<br>
-<a href="https://notbyai.fyi"><img src="https://share.choong.net/Not-By-AI/CN(SC)/Written%20By%20Human/SVG/Written-By-Human-Not-By-AI-Badge-white.svg" alt="written by human, not by AI"></a>
+<a href="https://notbyai.fyi"><img src="https://share.choong.net/Not-By-AI/CN(SC)/Written%20By%20Human/SVG/Written-By-Human-Not-By-AI-Badge-black.svg" alt="written by human, not by AI"></a><br>
+<a href="https://notbyai.fyi"><img src="https://share.choong.net/Not-By-AI/CN(SC)/Written%20By%20Human/SVG/Written-By-Human-Not-By-AI-Badge-white.svg" alt="written by human, not by AI"></a><br>
 </blockquote>
 </blockquote>
 

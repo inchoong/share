@@ -1,44 +1,44 @@
-卷 Data 的文件夹 PATH 列表<br>
+卷 Data 的文件夹 PATH 列表《DTC-2023数据技术嘉年华（PPT下载）》：<br>
 │  <br>
-└─DTC-2023数据技术嘉年华（PPT下载）>><br>
-        Jason Li -智能湖仓2.0：构建数据一体化融合分析.pdf<br>
-        于涛-从零开始打造新一代开源HSTAP数据库.pdf<br>
-        代晓磊-知乎分布式数据库上云实战.pdf<br>
-        伍旭飞-数据库内核演进，keewidb软硬一体化探索.pdf<br>
-        冯若航-更好的开源RDS PG替代：Pigsty.pdf<br>
-        冷建全-与应用一起，打造更稳、更快、更丰富、更智能的数据库产品.pdf<br>
-        刘宇-面向多样化数据库的数据底座——数据库存储2.0.pdf<br>
-        刘松-以自主开源和开放架构构建新一代HTAP数据库.pdf<br>
-        刘欢-京东云数据库在双十一期间的应用实践.pdf<br>
-        周日明-打造核心引擎 筑路数字经济：金篆信科GoldenDB 7.0新特性详解.pdf<br>
-        周明媛-光大银行国产化数据仓库落地实践.pdf<br>
-        周跃跃-OceanBase 社区版 4.x 探索与实践.pdf<br>
-        唐建法-开源+实时+数据即服务架构_ 遇见前所未有的Tapdata Live Data Platform.pdf<br>
-        姚延栋-YMatrix 超融合数据库.pdf<br>
-        娄帅-GreatSQL开源社区——做中国广受欢迎的开源数据库.pdf<br>
-        孔再华-openGauss在民生银行的应用实践.pdf<br>
-        巩飞-构建自治智能的数据库云管平台，加速国产数据库应用进程.pdf<br>
-        廖浩均-将流式计算引入时序数据库，TDengine 3.0 的分布式架构实践.pdf<br>
-        张亮-面向新一代数据架构的数据库增强引擎.pdf<br>
-        张俊喜-迁移之路：从国产封装到中国自主品牌.pdf<br>
-        张焕晨-迈向成本智能的云数据仓库未来.pdf<br>
-        张程伟-金毅-回归数据本原，企业级数据库的技术演绎.pdf<br>
-        张绍勇-GBase GCDW云上实时逻辑数仓，支持湖仓一体.pdf<br>
-        张雁飞-Databend_ 基于对象存储构建实时云原生数仓.pdf<br>
-        徐培-为数据插上智能的“翅膀”，数据智能技术助力企业降本增效（终稿）.pdf<br>
-        徐戟(白鳝)-知识图谱与异常检测助力数据库可观测性.pdf<br>
-        明玉琢-关基领域高价值基础数据应用国产替换与升级.pdf<br>
-        朱乐齐-数字政府中数据治理新模式（终稿）.pdf<br>
-        李传猛-ToB复杂HTAP业务场景的落地：用友事项会计+云原生PolarDB.pdf<br>
-        李俊-基于HashData的湖仓一体解决方案的探索与实践.pdf<br>
-        李士福-openGauss：自驾驶数据库内核.pdf<br>
-        杜华兴-分布式内存数据库VoltDB内核原理.pdf<br>
-        杨廷琨-Oracle 23c 创新特性与SQL增强.pdf<br>
-        林晓斌-Klustron高可用和容灾技术体系.pdf<br>
-        王云龙-HTAP：腾讯云数据库TDSQL的思考与实践.pdf<br>
-        王春玲-MogDB中自治异步事务提交的设计与实现.pdf<br>
-        郭茁-基于数据复制技术的多写多读数据库集群解决方案.pdf<br>
-        阿尔曼-库内人工智能变革：新挑战，新机遇（终版）.pdf<br>
-        韩笑-分布式图数据库的系统架构演进.pdf<br>
-        韩锋-走好信创最后一公里.pdf<br>
-        魏可伟-构建物联网时代“快人一步”的AloT数据库.pdf<br>    
+└─<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·Jason Li -智能湖仓2.0：构建数据一体化融合分析.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·于涛-从零开始打造新一代开源HSTAP数据库.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·代晓磊-知乎分布式数据库上云实战.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·伍旭飞-数据库内核演进，keewidb软硬一体化探索.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·冯若航-更好的开源RDS PG替代：Pigsty.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·冷建全-与应用一起，打造更稳、更快、更丰富、更智能的数据库产品.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·刘宇-面向多样化数据库的数据底座——数据库存储2.0.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·刘松-以自主开源和开放架构构建新一代HTAP数据库.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·刘欢-京东云数据库在双十一期间的应用实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·周日明-打造核心引擎 筑路数字经济：金篆信科GoldenDB 7.0新特性详解.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·周明媛-光大银行国产化数据仓库落地实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·周跃跃-OceanBase 社区版 4.x 探索与实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·唐建法-开源+实时+数据即服务架构_ 遇见前所未有的Tapdata Live Data Platform.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·姚延栋-YMatrix 超融合数据库.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·娄帅-GreatSQL开源社区——做中国广受欢迎的开源数据库.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·孔再华-openGauss在民生银行的应用实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·巩飞-构建自治智能的数据库云管平台，加速国产数据库应用进程.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·廖浩均-将流式计算引入时序数据库，TDengine 3.0 的分布式架构实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张亮-面向新一代数据架构的数据库增强引擎.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张俊喜-迁移之路：从国产封装到中国自主品牌.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张焕晨-迈向成本智能的云数据仓库未来.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张程伟-金毅-回归数据本原，企业级数据库的技术演绎.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张绍勇-GBase GCDW云上实时逻辑数仓，支持湖仓一体.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·张雁飞-Databend_ 基于对象存储构建实时云原生数仓.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·徐培-为数据插上智能的“翅膀”，数据智能技术助力企业降本增效（终稿）.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·徐戟(白鳝)-知识图谱与异常检测助力数据库可观测性.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·明玉琢-关基领域高价值基础数据应用国产替换与升级.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·朱乐齐-数字政府中数据治理新模式（终稿）.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·李传猛-ToB复杂HTAP业务场景的落地：用友事项会计+云原生PolarDB.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·李俊-基于HashData的湖仓一体解决方案的探索与实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·李士福-openGauss：自驾驶数据库内核.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·杜华兴-分布式内存数据库VoltDB内核原理.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·杨廷琨-Oracle 23c 创新特性与SQL增强.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·林晓斌-Klustron高可用和容灾技术体系.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·王云龙-HTAP：腾讯云数据库TDSQL的思考与实践.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·王春玲-MogDB中自治异步事务提交的设计与实现.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·郭茁-基于数据复制技术的多写多读数据库集群解决方案.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·阿尔曼-库内人工智能变革：新挑战，新机遇（终版）.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·韩笑-分布式图数据库的系统架构演进.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·韩锋-走好信创最后一公里.pdf<br>
+&nbsp;·&nbsp;·&nbsp;·&nbsp;·魏可伟-构建物联网时代“快人一步”的AloT数据库.pdf<br>   

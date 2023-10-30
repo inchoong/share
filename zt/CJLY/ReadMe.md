@@ -8,7 +8,9 @@
 		@<a href="https://twitter.com/caijingxiang?lang=zh-cn" title="推特 | 财经真相(@caijingxiang)2014年11月 加入">Twitter</a></td>
     </tr> 
  </table> 
-
+ 
+@财经冷眼（[20231029第1105期](https://www.youtube.com/watch?v=3NKs5PM0_hA)）https://youtu.be/3NKs5PM0_hA
+>>财经冷眼：20多城爆发悼念李克强运动，习近平严防死守北京防动乱，地铁禁戴白花！零星证据拼凑李被谋害全过程，李克强家人要求尸检？(20231029第1105期)
 
 @财经冷眼（[20210512第527期](https://www.youtube.com/watch?v=gV2dOMGJq10)）https://youtu.be/gV2dOMGJq10
 >>财经冷眼：人民在唱歌！成都49中事件竭力掩盖的真相！警察开始大量抓人，事情越闹越大，会失控吗？（20210512第527期）

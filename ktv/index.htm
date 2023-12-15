@@ -5,6 +5,7 @@ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
+ <meta charset="utf-8">
 <meta name="Excel Workbook Frameset">
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name=ProgId content=Excel.Sheet>
@@ -22,9 +23,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
  var c_lTabs=3;
 
  var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "É¨Ã¤";
- c_rgszSh[1] = "»áËù1";
- c_rgszSh[2] = "»áËù2";
+ c_rgszSh[0] = "æ‰«ç›²";
+ c_rgszSh[1] = "ä¼šæ‰€1";
+ c_rgszSh[2] = "ä¼šæ‰€2";
 
 
 
@@ -92,7 +93,7 @@ function fnBuildTabStrip()
  szHTML =
   "<html><head>"+
   "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt ËÎÌå;padding-left:3px;padding-right:3px;text-align:center;}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt å®‹ä½“;padding-left:3px;padding-right:3px;text-align:center;}"+
   ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
   "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
   " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
@@ -302,15 +303,15 @@ function fnSetActiveSheet(iSh)
  <x:ExcelWorkbook>
   <x:ExcelWorksheets>
    <x:ExcelWorksheet>
-    <x:Name>É¨Ã¤</x:Name>
+    <x:Name>æ‰«ç›²</x:Name>
     <x:WorksheetSource HRef="index.files/sheet001.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>»áËù1</x:Name>
+    <x:Name>ä¼šæ‰€1</x:Name>
     <x:WorksheetSource HRef="index.files/sheet002.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>»áËù2</x:Name>
+    <x:Name>ä¼šæ‰€2</x:Name>
     <x:WorksheetSource HRef="index.files/sheet003.htm"/>
    </x:ExcelWorksheet>
   </x:ExcelWorksheets>
@@ -331,7 +332,7 @@ function fnSetActiveSheet(iSh)
  <frame src="index.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
-   <p>´ËÒ³ÃæÊ¹ÓÃÁË¿ò¼Ü£¬¶øÄúµÄä¯ÀÀÆ÷²»Ö§³Ö¿ò¼Ü¡£</p>
+   <p>æ­¤é¡µé¢ä½¿ç”¨äº†æ¡†æ¶ï¼Œè€Œæ‚¨çš„æµè§ˆå™¨ä¸æ”¯æŒæ¡†æ¶ã€‚</p>
   </body>
  </noframes>
 </frameset>

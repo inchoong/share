@@ -9,7 +9,7 @@
 
 
 <li><a href="https://www.youtube.com/watch?v=EKLGd914qME">《纵深视角》专访辛灏年：论中华人民共和国合法性（时长：53:55） - YouTube</a></li>
-首播开始于 2023年10月21日<br>
+首播开始于 2023年10月21日 【<a href="https://rr5---sn-a5mlrnll.googlevideo.com/videoplayback?expire=1704459446&ei=VaiXZfuCPZHDsfIPiZuUsAw&ip=84.247.111.47&id=o-AMSZ2hRnLEcbPh0L76yEl7jcgWUUgXWgbcOJlkcz6Z7j&itag=599&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&spc=UWF9f-3sYtsvECyVjo9HgZv3NhgGtW0&vprv=1&svpuc=1&mime=audio%2Fmp4&gir=yes&clen=12449525&dur=3235.328&lmt=1699572344490141&keepalive=yes&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIga3V1RJEdnLURgN-4-hqDyk9x-zPmHyVJJXWApntnPM0CIGznbxeHcUB-_KYv1LDD6MGfjCStKMIJpjnOuZSJOQny&redirect_counter=1&cm2rm=sn-a5meed76&req_id=2e9d955a6c51a3ee&cms_redirect=yes&cmsv=e&mh=u1&mip=2a09:bac5:2643:1250::1d3:6a&mm=34&mn=sn-a5mlrnll&ms=ltu&mt=1704438042&mv=m&mvi=5&pl=47&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIgcz4IOrzQksuntJLqRlAk80wwSitHgeYoEk5KXZLSFO0CIQDcGXe0dhW6V0g75IPXPQjLc56DF5ThXPemGCyD8g_wWQ%3D%3D"> MP3音频</a>】<br>
 <br>
 <blockquote>
 《纵深视角》专访辛灏年：论中华人民共和国合法性<br>

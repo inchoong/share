@@ -67,7 +67,9 @@
 4、 一个自然月内最多可修改并保存三次，本月剩余保存次数：5
 </blockquote>
 </details>
-
+<p><a href="https://wecom-sidebar.github.io/wecom-sidebar-docs/intro/about.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E6%9C%AC%E7%AB%99">关于 | 企微侧栏</a>
+- <a href="https://github.com/wecom-sidebar">企业微信侧边栏</a>
+</p>
 <details>
    <summary>  <b>
 <a href="https://github.com/taoste/Hello-World/tree/master/github">HTML图文分享简易代码</a>：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a>》<br/>

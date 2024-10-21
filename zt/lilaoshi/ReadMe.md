@@ -1,6 +1,7 @@
 <h3>【<a href="https://www.youtube.com/@whyyoutouzhele">李老师不是你老师</a> - <a href="https://github.com/inchoong/go/tree/master/zt/lilaoshi" title="go/zt/lilaoshi at master · inchoong/go">Li's</a>】<br>
+   李老师的Youtube频道  |  YouTube（2023年7月8日注册）
   RSS订阅/频道ID：  <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q">UCrMjr7dY8syS_m9TdqM-g_Q</a> <br>
-   李老师的Youtube频道  |  YouTube（2023年7月8日注册）</h3>
+</h3>   
 <blockquote>
 <strong>-- 更多链接:</strong><br><br>
 <li>新闻账号推特链接:</li>

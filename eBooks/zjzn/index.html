@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>民間自救指南 | 阅读器</title>
+  <link rel="shortcut icon" type="image/x-icon"
+  		href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADAklEQVRYhe2WQWgUZxiGn/ffuFlrLkoIMbOsWQxWikcvPRVFqKaKyQhejKcipfRUPPQUiAcpHrx5kSL1IK0HXQ2SKqXUSo/VHkREZFNjM7OVZSkeQtls43wesqmandmMzUYP7Xub/3/ne56BYf6B/3qUtpi/lh+yhu1GtgtsyKAX1Le4a1VBDVTGdFNZ/RgcCMqrFhj6bihbn/9rLDI7jvFeWtnm5PtOOp3rfudCebjceG0B74o3Zhadxuh7LXAroSq54+FoeCGVwLZrA71zf/MVZiOrAreQdLVnHcceHqjUEgUGpwb7G/XGTbDtHYW/wD3I5rK7Zj6aedIiUJws9s0vzN9aO/gLie6u7g8eHXxUBXBLy41n81+3g0t6CkQpCFGzmxDbvshajIOlF86GY8Go4ZTZF/qVjcJtkXS3jeRd4baEfmWjU2afUOzbb2bD3hVvDMBN2IQjslOJvuJS4Ac3AMJDYWDGeGLXGA8PhQFA4Ac3TFxK6mL25YRNOHdu8uwewwaSi69eZtp8OVr2LLbW5Fv+3OTZPS6KOJJcA8Fhr+TtByhOFQsRnEzqRnCyOFUsAHglb7/gcLvZUaQj8kqbfzFjZ7ti02QO6Gn3VEvGwBxGz4ojxe0ug8KKcCDNwGYPSNc1KLjUg9ck6nHAzFvDQ+AkpTo21yJmzDikW29LQNJ1h3FeqP7m6SzkyH3jQj/8E7j45vlcnPanqw4gp/VfAE9WuKeDdNXW5zZ8Ds3DaNqfrnZJR9P/Ia4GDk7uk/JwufaPAMDvfuUHTJ+R7sj993DTsWA0KL209GrylzePGPrWsFxn2arj9Gk4Gp5f5tSafCm/N7Jn1zvIv71O2aOP/ccPlm+4uHbkonsdwYr7zunjbZvefT8ODtAVe1+k3fbSsSdUQfxq2A6MwbZM6SHYT85xeXbkj+8BAiqJ/VgBwz5sDnsKOtFf6D9zZ+edBYCtpa19ddV3mKxXpk1ERJJqjqhqmcxvswdnk2lxwnGLA6WBn2Xc25BlfPl//P/pdJ4DItcX43LWrMQAAAAASUVORK5CYII="/>	
+	<meta name="description" content="◎当法律保护不了你的时候，你只能自己保护自己。">
+	<meta name="author" content="◎保命专用。">
+	<meta property="og:title" content="◎活下去，比什么都重要。">
+<meta property="og:image" content="data:image/jpeg;base64,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">
+	<meta property="og:description" content="◎少去凑热闹，少去人堆里挤。">
+	<meta property="og:site_name" content="微信公众平台">
+	<meta property="og:type" content="article">
+	<meta property="og:article:author" content="◎这本书，但愿你永远用不上。">
+	<meta property="twitter:card" content="summary">
+	<meta property="twitter:image" content="data:image/jpeg;base64,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">
+	<meta property="twitter:title" content="◎当未来看不清的时候，你只能自己走稳每一步。">
+	<meta property="twitter:creator" content="◎民間自救指南">
+	<meta property="twitter:site" content="微信公众平台">
+	<meta property="twitter:description" content="◎普通人在无差别暴力事件中的自保方式。">
+ 
+  <!-- 引入 PDF.js 核心库（CDN） -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <!-- 设置 PDF.js worker 路径 -->
+  <script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  </script>
+
+  <!-- 可选：EPUB.js（此处仅预留，未激活） -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js"></script> -->
+
+  <!-- 引入手势库 Hammer.js -->
+  <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script>
+
+  <style>
+    /* 全局重置 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #f5f5f5;
+      font-family: sans-serif;
+      overflow: hidden; /* 防止滚动条干扰手势 */
+      touch-action: none; /* 允许 Hammer.js 控制触摸 */
+    }
+
+    /* 主容器：全屏显示 */
+    #reader-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      perspective: 1000px;
+    }
+
+    /* 内容区域：根据设备方向切换布局 */
+    #content-area {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* 页面容器：用于翻页动画 */
+    .page {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: white;
+      backface-visibility: hidden;
+      transform-style: preserve-3d;
+      transition: transform 0.3s cubic-bezier(0.33, 1, 0.68, 1); /* 流畅动画 */
+      will-change: transform; /* 提升渲染性能 */
+    }
+
+    /* 图片/PDF 内容样式 */
+    .page-content {
+      max-width: 95%;
+      max-height: 95%;
+      object-fit: contain;
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+
+    /* 翻页按钮（PC 显示） */
+    .nav-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      width: 50px;
+      height: 100px;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 100;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+    .nav-btn:hover {
+      opacity: 1;
+    }
+    #prev-btn { left: 10px; }
+    #next-btn { right: 10px; }
+
+    /* 手机模式隐藏左右按钮，改用上下按钮（可选） */
+    @media (max-width: 768px) {
+      .nav-btn {
+        display: none;
+      }
+      /* 可添加上下按钮（此处省略，依赖手势） */
+    }
+
+    /* 书签和缩放控件 */
+    #controls {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 10px;
+      z-index: 200;
+    }
+    .control-btn {
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: none;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+
+    /* 加载提示 */
+    #loading {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 18px;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+
+<!-- 加载提示 -->
+<div id="loading">正在加载书籍...</div>
+
+<!-- 主阅读区域 -->
+<div id="reader-container">
+  <div id="content-area"></div>
+</div>
+
+<!-- 控制按钮 -->
+<div id="controls">
+  <button class="control-btn" id="zoom-in">+</button>
+  <button class="control-btn" id="zoom-out">−</button>
+  <button class="control-btn" id="bookmark">★</button>
+</div>
+
+<!-- 翻页按钮（PC） -->
+<button class="nav-btn" id="prev-btn">‹</button>
+<button class="nav-btn" id="next-btn">›</button>
+
+<script>
+  // ======================
+  // 配置区（可替换为动态传参）
+  // ======================
+  const config = {
+    // 支持三种格式之一：
+    // 1. 单图: 'https://example.com/book.jpg'
+    // 2. 多图: ['img1.jpg', 'img2.jpg', ...]
+    // 3. PDF: 'book.pdf'
+    source: ['book-00.jpg', 'book-01.jpg', 'book-02.jpg', 'book-03.jpg', 'book-04.jpg', 'book-05.jpg', 'book-06.jpg', 'book-07.jpg', 'book-08.jpg'],
+    // source: 'https://example.com/sample.pdf', // 示例 PDF
+    // source: 'https://example.com/cover.jpg',   // 示例单图
+
+    // 缩放设置
+    minScale: 0.5,
+    maxScale: 3,
+    defaultScale: 1,
+  };
+
+  // ======================
+  // 全局状态
+  // ======================
+  let currentPage = 0;
+  let totalPages = 0;
+  let pages = []; // 存储所有页面元素
+  let scale = config.defaultScale;
+  let isMobile = window.innerWidth <= 768;
+  let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '{}');
+
+  // ======================
+  // 初始化入口
+  // ======================
+  async function initReader() {
+    const source = config.source;
+
+    // 自动检测类型
+    if (typeof source === 'string') {
+      if (source.endsWith('.pdf')) {
+        await loadPDF(source);
+      } else {
+        // 单张图片
+        totalPages = 1;
+        pages = [source];
+        renderPages();
+      }
+    } else if (Array.isArray(source)) {
+      // 多张图片
+      totalPages = source.length;
+      pages = [...source];
+      renderPages();
+    }
+
+    setupControls();
+    setupGestures();
+    hideLoading();
+  }
+
+  // ======================
+  // 加载 PDF
+  // ======================
+  async function loadPDF(url) {
+    try {
+      const loadingTask = pdfjsLib.getDocument(url);
+      const pdf = await loadingTask.promise;
+      totalPages = pdf.numPages;
+      pages = [];
+
+      // 预渲染所有页面为 canvas URL（简化版，实际可懒加载）
+      for (let i = 1; i <= totalPages; i++) {
+        const page = await pdf.getPage(i);
+        const viewport = page.getViewport({ scale: 2 }); // 高清
+        const canvas = document.createElement('canvas');
+        const context = canvas.getContext('2d');
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+        await page.render({ canvasContext: context, viewport }).promise;
+        pages.push(canvas.toDataURL()); // 转为 base64 图片
+      }
+      renderPages();
+    } catch (err) {
+      alert('PDF 加载失败: ' + err.message);
+      hideLoading();
+    }
+  }
+
+  // ======================
+  // 渲染页面 DOM
+  // ======================
+  function renderPages() {
+    const contentArea = document.getElementById('content-area');
+    contentArea.innerHTML = '';
+
+    pages.forEach((src, index) => {
+      const pageEl = document.createElement('div');
+      pageEl.className = 'page';
+      if (index !== currentPage) {
+        pageEl.style.display = 'none'; // 初始只显示当前页
+      }
+
+      const img = document.createElement('img');
+      img.src = src;
+      img.className = 'page-content';
+      img.draggable = false;
+      pageEl.appendChild(img);
+      contentArea.appendChild(pageEl);
+    });
+
+    updatePageTransform();
+  }
+
+  // ======================
+  // 更新页面位置/缩放
+  // ======================
+  function updatePageTransform() {
+    const pageEls = document.querySelectorAll('.page');
+    pageEls.forEach((el, i) => {
+      const img = el.querySelector('.page-content');
+      if (!img) return;
+
+      // 应用缩放
+      img.style.transform = `scale(${scale})`;
+      img.style.transformOrigin = 'center';
+
+      // 移动端：上下堆叠；桌面端：左右排列
+      if (isMobile) {
+        el.style.transform = `translateY(${(i - currentPage) * 100}%)`;
+      } else {
+        el.style.transform = `translateX(${(i - currentPage) * 100}%)`;
+      }
+
+      // 显示当前页，隐藏其他（优化性能）
+      el.style.display = i === currentPage ? 'flex' : 'none';
+    });
+  }
+
+  // ======================
+  // 翻页逻辑
+  // ======================
+  function goToPage(index) {
+    if (index < 0 || index >= totalPages) return;
+    currentPage = index;
+    updatePageTransform();
+
+    // 更新书签按钮状态
+    const bookmarkBtn = document.getElementById('bookmark');
+    bookmarkBtn.textContent = bookmarks[currentPage] ? '☆' : '★';
+  }
+
+  // ======================
+  // 控件绑定
+  // ======================
+  function setupControls() {
+    document.getElementById('prev-btn').onclick = () => goToPage(currentPage - 1);
+    document.getElementById('next-btn').onclick = () => goToPage(currentPage + 1);
+
+    document.getElementById('zoom-in').onclick = () => {
+      scale = Math.min(config.maxScale, scale + 0.2);
+      updatePageTransform();
+    };
+    document.getElementById('zoom-out').onclick = () => {
+      scale = Math.max(config.minScale, scale - 0.2);
+      updatePageTransform();
+    };
+
+    const bookmarkBtn = document.getElementById('bookmark');
+    bookmarkBtn.onclick = () => {
+      if (bookmarks[currentPage]) {
+        delete bookmarks[currentPage];
+        bookmarkBtn.textContent = '★';
+      } else {
+        bookmarks[currentPage] = new Date().toISOString();
+        bookmarkBtn.textContent = '☆';
+      }
+      localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+    };
+
+    // 初始书签状态
+    bookmarkBtn.textContent = bookmarks[currentPage] ? '☆' : '★';
+  }
+
+  // ======================
+  // 手势支持（Hammer.js）
+  // ======================
+  function setupGestures() {
+    const area = document.getElementById('content-area');
+    const mc = new Hammer(area);
+
+    let startX, startY;
+
+    mc.on('panstart', ev => {
+      startX = ev.center.x;
+      startY = ev.center.y;
+    });
+
+    mc.on('panend', ev => {
+      const dx = ev.center.x - startX;
+      const dy = ev.center.y - startY;
+      const threshold = 50;
+
+      if (isMobile) {
+        if (dy < -threshold) goToPage(currentPage + 1); // 上滑下一页
+        if (dy > threshold) goToPage(currentPage - 1);  // 下滑上一页
+      } else {
+        if (dx < -threshold) goToPage(currentPage + 1); // 左滑下一页
+        if (dx > threshold) goToPage(currentPage - 1);  // 右滑上一页
+      }
+    });
+  }
+
+  // ======================
+  // 工具函数
+  // ======================
+  function hideLoading() {
+    document.getElementById('loading').style.display = 'none';
+  }
+
+  // ======================
+  // 启动阅读器
+  // ======================
+  window.addEventListener('load', initReader);
+  window.addEventListener('resize', () => {
+    isMobile = window.innerWidth <= 768;
+    updatePageTransform();
+  });
+</script>
+
+</body>
+</html>
